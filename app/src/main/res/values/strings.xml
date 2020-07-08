@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoOtpReceiver</string>
+    <string name="received_message">received_message</string>
+</resources>
